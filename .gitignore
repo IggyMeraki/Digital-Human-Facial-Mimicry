@@ -1,0 +1,5 @@
+__pycache__/
+npy/
+outputs/
+qt_ui/__pycache__/
+utils/__pycache__/
